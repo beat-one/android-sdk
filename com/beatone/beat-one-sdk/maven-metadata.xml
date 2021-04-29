@@ -3,10 +3,11 @@
   <groupId>com.beatone</groupId>
   <artifactId>beat-one-sdk</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.0.1</release>
     <versions>
       <version>1.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20210407071257</lastUpdated>
+    <lastUpdated>20210429151948</lastUpdated>
   </versioning>
 </metadata>
